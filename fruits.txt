@@ -2,3 +2,6 @@ mangoes
 apples
 banana
 kiwi
+strawberry
+oranges
+kavya 
