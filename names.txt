@@ -1,4 +1,9 @@
 pinky 
 chinnu
+<<<<<<< HEAD
 ramya
 kavya 
+=======
+kavya
+Ramya
+>>>>>>> parent of 650cbc5 (added names)
